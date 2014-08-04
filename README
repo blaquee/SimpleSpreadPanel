@@ -1,4 +1,28 @@
-SimpleSpreadPanel
-=================
+SSP (Simple Spread Panel)
+=========================
 
--
+This is a POC to demostrate how to inject binary files into a windows remote machines.
+
+Cuando escribi esta prueba de concepto en el año 2011, Microsoft y los idiotas de sus investigadores, me involucraron en el proceso legal Zeus / SpyEye,
+segun ellos yo era el encargado de inyectar este troyano bancario en la internet, esto no es cierto y me arruino la vida, ahora no logro conseguir empleo por esto.
+
+In this PDF http://www.zeuslegalnotice.com/images/Complaint_w_Appendices.pdf appears my old email jheto2002@gmail.com and say this text: Plaintiffs are informed and believe and thereupon allege that John Doe 38 goes by the alias “jheto2002” and may be contacted at email address jheto2002@gmail.com. Upon information and belief, John Doe 38 is involved in creating injection code to deliver the Zeus/SpyEye code.
+
+Because all things one pearson write this article on Forbes about me.
+
+A Hacker's Guide To Finding A Job: http://www.forbes.com/sites/jasperhamill/2014/06/30/a-hackers-guide-to-finding-a-job/
+
+This project contains two subprojects, Banner and WebPanel, Banner is a simple java applet with a WSH dropper and WebPanel is a web app to injects binary files.
+
+Sure, SSP are used to inject Zeus / SpyEye, you need are a big stupid to think this.
+
+This code was developed by me: Jheto Xekri
+
+You can contact me in my profile web: http://about.me/jheto.xekri
+or by email to jheto.xekri@outlook.com
+or by Whatsapp to +573166110533
+or by Skype: jheto.xekri
+
+If you appreciate my work please make a donation with: 
+
+Paypal: 

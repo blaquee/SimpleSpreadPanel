@@ -1,0 +1,95 @@
+body {
+	/*background-color: #333333;/*FFFFFF*/
+	margin-left: 0px;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.black {
+    COLOR: black;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: small;
+    FONT-STYLE: normal;
+}
+.white {
+    COLOR: white;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: small;
+    FONT-STYLE: normal;
+}
+.border {
+	border-top: thin solid #000000;
+	border-right: thin solid #333333;
+	border-bottom: thin solid #333333;
+	border-left: thin solid #333333;
+}
+a:link {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: small;
+	FONT-STYLE: normal;
+	TEXT-DECORATION: underline;
+	COLOR: #000000;
+}
+a:hover {
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: small;
+    FONT-STYLE: normal;
+    TEXT-DECORATION: none;
+	COLOR: #000000;
+}
+a:active {
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: small;
+    FONT-STYLE: normal;
+    COLOR: #000000;
+}
+a:visited {
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+    FONT-SIZE: small;
+    FONT-STYLE: normal;
+    COLOR: #000000;
+}
+.blackBorder {
+	border-top: thin solid #000000;
+	border-right: thin solid #000000;
+	border-bottom: thin solid #000000;
+	border-left: thin solid #000000;
+}
+.inputText {
+	BACKGROUND-COLOR: #999999;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: small;
+	FONT-STYLE: normal;
+	FONT-VARIANT: normal;
+	FONT-WEIGHT: normal;
+	border: thin solid #000000;
+}
+.inputFile {
+	display: block;
+    overflow: hidden;
+    cursor: pointer;
+
+	BACKGROUND-COLOR: #999999;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: small;
+	FONT-STYLE: normal;
+	FONT-VARIANT: normal;
+	FONT-WEIGHT: normal;
+	border: thin solid #000000;
+}
+.inputSelect {
+	BACKGROUND-COLOR: #999999;
+	BORDER-BOTTOM: thin;
+	BORDER-LEFT: thin;
+	BORDER-RIGHT: thin;
+	BORDER-TOP: thin;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: small;
+	FONT-STYLE: normal;
+	FONT-VARIANT: normal;
+	FONT-WEIGHT: normal;
+	border: thin solid #000000;
+}
